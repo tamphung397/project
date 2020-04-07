@@ -1,0 +1,31 @@
+6
+Student 1:
+5.600000
+04/2020
+Student 2:
+0.000000
+Student 2:
+SE123
+A
+1/8/2000
+3.220000
+Student 3:
+1
+A
+1/4/2000
+3.330000
+Student 4:
+SE123
+BAO
+20/2/2000
+9.000000
+Student 5:
+SE124
+HUY
+1/1/2000
+4.500000
+Student 6:
+SE02
+Student 1:
+le thi ty
+34.000000
